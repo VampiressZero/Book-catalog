@@ -1,6 +1,6 @@
 .homePage{
-    margin: 25px 3%;
+    margin-top: 25px;
     display: flex;
     justify-content: space-around;
-
+    flex-wrap: wrap;
 }

@@ -8,7 +8,7 @@ import { HomePage } from './page/HomePage/organoids/HomePage';
 const App = () => {
   return (
     <div className="App">
-      <HomePage/>
+      <HomePage />
     </div>
   );
 }

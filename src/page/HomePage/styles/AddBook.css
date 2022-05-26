@@ -2,4 +2,11 @@
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+    row-gap: 5px;
+    min-width: 275px;
+    text-align: left;
+    
+}
+.addBook > input{
+    width: 250px;
 }
